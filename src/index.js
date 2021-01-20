@@ -1,0 +1,11 @@
+function info() {
+  console.log('---function info----')
+    const m = new Map();
+    m.set('name', 'ajs');
+    m.set('version', '1.0.0');
+    return m;
+  }
+  info();
+  export default {
+    info
+  };
