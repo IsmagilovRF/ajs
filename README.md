@@ -36,20 +36,3 @@ entry point - dist/index.js (!надо поменять на dist/index.js)
 # Шаг 2. Получение Access Token
 Мы будем использовать сервис GitHub Packages (куда вы опубликуете свою библиотеку), чтобы не замусоривать npmjs.com.
 
-Для этого, нам нужно получить Access Token.
-
-https://github.com/netology-code/ajs-homeworks/blob/ajs8/platforms/pic/settings-menu.png
-
-Выберите пункт меню Developer Settings:
-
-
-
-Выберите пункт меню Personal Access Tokens (1), затем нажмите на кнопку Generate new token (2):
-Выберите пункт меню Developer Settings:
-
-
-
-Выберите пункт меню Personal Access Tokens (1), затем нажмите на кнопку Generate new token (2):
-
-
-
